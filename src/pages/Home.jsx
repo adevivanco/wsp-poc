@@ -4,7 +4,7 @@ import { BigGradientText, CenterText } from "../styles";
 const Home = () => {
   return (
     <CenterText>
-      <BigGradientText>Home</BigGradientText>
+      <BigGradientText>WSP</BigGradientText>
     </CenterText>
   );
 };
